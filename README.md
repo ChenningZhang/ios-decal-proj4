@@ -15,16 +15,16 @@
 	* If users are not moving, the screen will show when is the next bus/bart of users' selections coming.
 	* When the users reached the bus stop, the screen will show up a message saying "You have reached at the bus stop. The next bus is coming in xx minutes."
 ## Implementation
-	### Model
-		* AppDelegate.swift
-		* NextBus.swift
-	### View
-		* UserInputView
-		* NextBusView
-		* TimeRemainingView
-		* ArrivedView
-	### Controller
-		* UserInputViewController
-		* NextBusViewController
-		* TimeRemainingViewController
-		* ArrivedViewController
+### Model
+	* AppDelegate.swift
+	* NextBus.swift
+### View
+	* UserInputView
+	* NextBusView
+	* TimeRemainingView
+	* ArrivedView
+### Controller
+	* UserInputViewController
+	* NextBusViewController
+	* TimeRemainingViewController
+	* ArrivedViewController
